@@ -5,7 +5,7 @@
 1. Fork the repository
 2. Clone the repository locally
 ```bash
-$ git clone https://github.com/iamsid47/socketX.git
+$ git clone https://github.com/<your-username>/socketX.git
 ```
 3. (Optional, but good choice!) Create a new branch specifically for the issue you'd like to solve, or for a feature/bug fix
 4. Stage changes, and commit
